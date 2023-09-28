@@ -7,8 +7,10 @@
 </div>
 
 ## 🚀💻 Tecnologias:
- ![C](https://img.shields.io/badge/--black?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/--E34F26?style=flat-square&logo=html5&logoColor=white)
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+          
 
 ## ⚡ GitHub Stats:
 <div>
