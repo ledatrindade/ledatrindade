@@ -11,8 +11,10 @@
  ![C](https://img.shields.io/badge/--black?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/--E34F26?style=flat-square&logo=html5&logoColor=white)
 
+## ⚡ GitHub Stats:
 <div>
 <a href="https://github.com/ledatrindade">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledatrindade&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ledatrindade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledatrindade&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=ledatrindade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
