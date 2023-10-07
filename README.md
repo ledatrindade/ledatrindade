@@ -6,10 +6,11 @@
 <a href="https://www.linkedin.com/in/l%C3%AAda-trindade-b21a73288/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## 🚀💻 Tecnologias:
+## 🚀💻 Estudando Tecnologias:
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
           
 
 ## ⚡ GitHub Stats:
