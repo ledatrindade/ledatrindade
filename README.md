@@ -15,7 +15,7 @@
 ## ⚡ GitHub Stats:
 <div>
 <a href="https://github.com/ledatrindade">
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledatrindade&layout=compact&langs_count=7&theme=lover"/>
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=ledatrindade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledatrindade&layout=compact&langs_count=7&theme=highcontrast"/>
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=ledatrindade&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 
