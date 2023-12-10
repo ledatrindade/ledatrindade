@@ -7,7 +7,8 @@
 </div>
 
 ## 🚀💻 Estudando Tecnologias:
- 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
@@ -16,6 +17,7 @@
 ## ⚡ GitHub Stats:
 <div>
 <a href="https://github.com/ledatrindade">
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledatrindade&layout=compact&langs_count=7&theme=highcontrast"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledatrindade&layout=compact&langs_count=7&theme=dracula"/>
+ 
 </div>
 
