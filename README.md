@@ -1,4 +1,4 @@
-## 👋 Olá! Bem-vindo ao meu perfil no Github. Meu nome é Leda. 🔭
+## 👋 Olá! Bem-vindo ao meu perfil no Github. Meu nome é Leda.🔭
 - FICR Análise e Desenvolvimento de Sistemas (2/5 Período)
 ## Contatos:
 <div>
