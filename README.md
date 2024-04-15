@@ -16,7 +16,7 @@
 ## ⚡ GitHub Stats:
 <div>
 <a href="https://github.com/ledatrindade">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledatrindade&layout=compact&langs_count=7&theme=merko"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledatrindade&layout=compact&langs_count=7&theme=dracula"/>
  
 </div>
 
