@@ -1,5 +1,5 @@
 ## 👋 Olá! Bem-vindo ao meu perfil no Github. Meu nome é Leda.🔭
-- FICR Análise e Desenvolvimento de Sistemas (2/5 Período)
+- FICR Análise e Desenvolvimento de Sistemas (3/5 Período)
 ## Contatos:
 <div>
 <a href="mailto:ledatrindade94@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
