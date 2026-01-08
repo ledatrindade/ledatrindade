@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou a Leda Trindade</h1>
 
 <p align="center">
-Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>FICR</strong> (4º/5º período)<br>
+Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>FICR</strong> (5º/5º período)<br>
 Explorando diferentes linguagens, lógica de programação e projetos práticos
 </p>
 
