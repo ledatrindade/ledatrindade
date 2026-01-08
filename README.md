@@ -14,7 +14,7 @@ Explorando diferentes linguagens, lógica de programação e projetos práticos
 - 📂 Cada projeto representa uma etapa da minha jornada na tecnologia
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Graduada-Análise e Desenvolvimento de SistemasDS-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Formação-Análise%20e%20Desenvolvimento%20de%20Sistemas-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Foco-Aprendizado-important?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linguagens-Java%20|%20Node.js%20|%20SQL-success?style=for-the-badge"/>
 </p>
