@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou a Leda Trindade</h1>
+<h1 align="center">Olá! 👋 Eu sou a Lêda Trindade</h1>
 
 <p align="center">
 Explorando diferentes linguagens, lógica de programação e projetos práticos
