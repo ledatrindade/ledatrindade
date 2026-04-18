@@ -15,7 +15,7 @@ Explorando diferentes linguagens, lógica de programação e projetos práticos
 
 <p align="center">
 <img src="https://img.shields.io/badge/Formação-Análise%20e%20Desenvolvimento%20de%20Sistemas-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Foco-Aprendizado-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Foco-BackEnd-important?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linguagens-Java%20|%20Node.js%20|%20SQL-success?style=for-the-badge"/>
 </p>
 
@@ -31,24 +31,5 @@ Explorando diferentes linguagens, lógica de programação e projetos práticos
 </div>
 
 
-
-
-
-
-## 🚀 Tecnologias presentes nos meus estudos e projetos
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45" height="45"/>
-</div>
 
 
